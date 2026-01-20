@@ -1,5 +1,4 @@
 import { Effect } from "effect";
-import { unsafeIsFuture } from "effect/DateTime";
 
 interface User {
   readonly id: number;
